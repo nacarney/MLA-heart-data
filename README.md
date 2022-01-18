@@ -4,12 +4,12 @@ This project was part of a Multivariate Linear Analysis module in my 3rd year of
 
 Methods used:
 
-Principal Components Analysis
-Hierarchical Clustering 
-K-Means Clustering
-K-Nearest-Neighbours
-Linear Discriminant Analysis
-Quadratic Discriminant Analysis 
+- Principal Components Analysis
+- Hierarchical Clustering 
+- K-Means Clustering
+- K-Nearest-Neighbours
+- Linear Discriminant Analysis
+- Quadratic Discriminant Analysis 
 
 The following is an outline of the assignment:
 
