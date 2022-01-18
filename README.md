@@ -1,6 +1,17 @@
 # MLA-heart-data
 
-This project was part of a Multivariate Linear Analysis module in my 3rd year of college. The following is an outline of the assignment:
+This project was part of a Multivariate Linear Analysis module in my 3rd year of college. 
+
+Methods used:
+
+Principal Components Analysis
+Hierarchical Clustering 
+K-Means Clustering
+K-Nearest-Neighbours
+Linear Discriminant Analysis
+Quadratic Discriminant Analysis 
+
+The following is an outline of the assignment:
 
 'The data set consists of nine variables, each measuring different physiological characteristics of patients at risk of heart
 disease. Five variables are continuous, and three are binary. One variable, Slope, is ordinal, but for our purposes you should treat it as continuous. The tenth
